@@ -5,5 +5,5 @@
 
 ### Repositories:
 
-* [0x00_mysql]()
+* [0x00_mysql](https://github.com/abdelemjidessaid/0x00_Summaries/blob/main/0x00_mysql/MYSQL_SUMMARY.md)
 
